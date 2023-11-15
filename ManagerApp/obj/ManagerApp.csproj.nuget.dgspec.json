@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\trieut6\\C#\\ManagerApp\\ManagerApp\\ManagerApp.csproj": {}
+    "C:\\Users\\HP\\Desktop\\Winform-2\\ManagerApp\\ManagerApp.csproj": {}
   },
   "projects": {
-    "E:\\trieut6\\C#\\ManagerApp\\ManagerApp\\ManagerApp.csproj": {
+    "C:\\Users\\HP\\Desktop\\Winform-2\\ManagerApp\\ManagerApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\trieut6\\C#\\ManagerApp\\ManagerApp\\ManagerApp.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Winform-2\\ManagerApp\\ManagerApp.csproj",
         "projectName": "ManagerApp",
-        "projectPath": "E:\\trieut6\\C#\\ManagerApp\\ManagerApp\\ManagerApp.csproj",
-        "packagesPath": "C:\\Users\\Pro 2004\\.nuget\\packages\\",
-        "outputPath": "E:\\trieut6\\C#\\ManagerApp\\ManagerApp\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Winform-2\\ManagerApp\\ManagerApp.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Winform-2\\ManagerApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Pro 2004\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -16,3 +16,9 @@ E:\trieut6\C#\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.genrunti
 E:\trieut6\C#\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ref\ManagerApp.dll
 E:\trieut6\C#\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.FormHome.resources
 E:\trieut6\C#\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.FormDashboard.resources
+C:\Users\HP\Downloads\ManagerApp (1)\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.dll
+C:\Users\HP\Downloads\ManagerApp (1)\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\refint\ManagerApp.dll
+C:\Users\HP\Downloads\ManagerApp (1)\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.pdb
+C:\Users\HP\Desktop\Winform-2\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.dll
+C:\Users\HP\Desktop\Winform-2\ManagerApp\obj\Debug\net7.0-windows\refint\ManagerApp.dll
+C:\Users\HP\Desktop\Winform-2\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.pdb
